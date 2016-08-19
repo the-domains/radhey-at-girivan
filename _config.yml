@@ -1,14 +1,14 @@
 layout_spectrum: 0.08847365831024945
-typography_spectrum: 0.14365154318511486
+typography_spectrum: 0.9317299840040505
 color:
   brandStrength: 0.9660508630331606
   lightness: 0.9064806567039341
   saturation: 0.0800050743855536
   rhythmicContrast: 0.6824036999605596
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: Radhey at Girivan
